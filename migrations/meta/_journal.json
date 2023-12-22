@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1702621092597,
+      "tag": "0000_nosy_zzzax",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1702621938284,
+      "tag": "0001_blue_spencer_smythe",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1702622323697,
+      "tag": "0002_numerous_tigra",
+      "breakpoints": true
+    }
+  ]
+}
